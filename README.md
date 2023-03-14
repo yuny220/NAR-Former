@@ -2,7 +2,7 @@
 
 This is the source code for paper:<br> 
 [NAR-Former: Neural Architecture Representation Learning towards Holistic Attributes Prediction](https://arxiv.org/pdf/2211.08024.pdf)
-![本地路径](figures/overall_2.pdf "相对路径演示")
+![image](https://github.com/yuny220/NAR-Former/blob/master/figures/overall.png)
 
 
 ## Experiments on NAS-Bench-201
